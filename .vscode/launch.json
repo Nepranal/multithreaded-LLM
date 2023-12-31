@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/pregabalin/Documents/Studies/Year_3/COMP3230/Assignments/PA2_final",
+      "program": "/Users/pregabalin/Documents/Studies/Year_3/COMP3230/Assignments/PA2_final/build/Debug/outDebug"
+    }
+  ]
+}
